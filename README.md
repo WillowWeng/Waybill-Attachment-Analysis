@@ -6,6 +6,8 @@
 
 ## Goal of the Project
 
+## Process
+
 ## Strategic Analysis
 
 ## Conclusions
